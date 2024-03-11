@@ -1,4 +1,4 @@
-## Ola, Eu sou Arsenio Langa
+## Ola, Eu sou Arsénio Langa
 <a href="https://github.com/ArsenioLanga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arseniolanga&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arseniolanga&layout=compact&langs_count=7&theme=yeblu"/>
